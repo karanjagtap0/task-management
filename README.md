@@ -99,4 +99,4 @@ For any issues or inquiries, please open an issue on the [Issues](https://github
 
 
 ### Contact Me
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanjagtap0612@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](karanjagtap0612@gmail.com)
